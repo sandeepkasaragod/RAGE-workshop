@@ -9,25 +9,18 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Workshop
+## Contents
 
-Monday 26th - Friday 30th June 2023 - University of Glasgow, UK
-
-The RAGE Workshop is a hands-on training course on nanopore-based genome sequencing to support enhanced canine rabies virus surveillance. Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scottish Centre for Ecology and the Natural Environment](https://www.gla.ac.uk/research/az/scene/). Participants will undergo introductory training in  a sample-to-sequence-to-interpretation workflow, including nanopore library preparation and basic data analysis. 
-
-### Facilitators:
-
-* Kirstyn Brunker
-* Criselda Bautista
-* Gurdeep Jaswant
-* Kathryn Campbell
-* Rowan Durrant
-* Laura Bergner
-
-### Participants:
-
-### Funding
-Funding for this workshop has been provided by Medical Research Council and Wellcome Trust funding awarded to Kirstyn Brunker and Katie Hampson.
-
-
-
+* [1: Introduction and Wet Lab - Day 1](#1-day1)
+	+ [1.1: Genomic surveillance for rabies virus](Bash_Scripting/Basic_Command_Line.md)
+	+ [1.2: Introduction to nanopore sequencing](Bash_Scripting/File_Formats_And_Text_Processing.md)
+* [2: Wet lab - Day 2](#2-day2)
+	+ [2.1: Reference alignment]()
+	+ [2.2: Coverage plots and statistics]()
+	+ [2.3: Consensus and variant calling]()
+* [3: Metadata and Intro to Bioinformatics - Day 3](#3-day3)
+	+ [3.1: Metadata]()
+	+ [3.2: Command line basics]()
+	+ [3.3: Running the pipeline]()
+* [4: Bioinformatics - Day 4](#4-day4)
+* [5: Bioinformatics - Day 5](#5-day5)
