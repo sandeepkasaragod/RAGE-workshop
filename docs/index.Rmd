@@ -13,5 +13,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Monday 26th - Friday 30th June 2023 - Glasgow, UK
 
-The RAGE Workshop is a hands-on training course on the application of Oxford Nanopore based sequencing (MinION) to support enhanced canine rabies virus surveillance. Over 5-days, based at the scenic location of the Scottish Centre for Ecology and the Natural Environment <https://www.gla.ac.uk/research/az/scene/> on the bank of Loch Lomond, participants will undergo introductory training in a sample-to-sequence-to-interpretation workflow, including nanopore library preparation and basic data analysis. 
+The RAGE Workshop is a hands-on training course on the application of Oxford Nanopore based sequencing (MinION) to support enhanced canine rabies virus surveillance. Over 5-days, based at the scenic location of the [Scottish Centre for Ecology and the Natural Environment] (https://www.gla.ac.uk/research/az/scene/) on the bank of Loch Lomond, participants will undergo introductory training in a sample-to-sequence-to-interpretation workflow, including nanopore library preparation and basic data analysis. 
 
