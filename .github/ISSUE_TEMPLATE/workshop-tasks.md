@@ -7,4 +7,9 @@ assignees: ''
 
 ---
 
+```[tasklist]
 
+### Workshop tasks
+
+- [ ] Lab-on-ssds
+```
