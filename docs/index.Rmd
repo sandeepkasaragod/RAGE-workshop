@@ -33,7 +33,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## [ALignments]()
 ## [Tree explainer]()
 ## [Building a tree]()
-## [Tree visualisation](4.2.1a_tree_visualisation.md)
+## [Tree visualisation](docs/4.2.1a_tree_visualisation.md)
 
 # [Day 5: Bioinformatics: Further interpretation and visualisation](#5-day5)
 ## [MADDOG]()
