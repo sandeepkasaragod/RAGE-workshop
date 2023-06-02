@@ -2,33 +2,40 @@
 title: "Rabies Accessible Genomic Epidemiology (RAGE) Workshop"
 author: "Kirstyn Brunker"
 date: "2023-05-31"
-output: html_document
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+    theme: spacelab
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Contents
+# [Day 1: Introduction and Wet Lab](#1-day1)
+## [Genomic surveillance for rabies virus](#1.1)
+## [Introduction to nanopore sequencing](#1.2)
 
-* [Day 1: Introduction and Wet Lab](#1-day1)
-	+ [1.1: Genomic surveillance for rabies virus]()
-	+ [1.2: Introduction to nanopore sequencing]()
-* [Day 2: Wet lab - Day 2](#2-day2)
-	+ [2.1: Reference alignment]()
-	+ [2.2: Coverage plots and statistics]()
-	+ [2.3: Consensus and variant calling]()
-* [Day 3: Metadata and Intro to Bioinformatics](#3-day3)
-	+ [3.1: Metadata]()
-	+ [3.2: Genetic data types]()
-	+ [3.2: Command line basics]()
-	+ [3.3: Running the pipeline]()
-* [Day 4: Bioinformatics: Basic phylogenies & interpretation](#4-day4)
-	+ [4.1: ALignments]()
-	+ [4.2: Tree explainer]()
-	+ [4.2: Building a tree]()
-	+ [4.3: Tree visualisation](4.2.1a_tree_visualisation.md)
-* [Day 5: Bioinformatics: Further interpretation and visualisation](#5-day5)
-	+ [5.1: MADDOG]()
-	+ [5.2: MicroReact]()
+# [Day 2: Wet lab](#2-day2)
+## [Reference alignment](#2.1)
+## [Coverage plots and statistics](#2.2)
+## [Consensus and variant calling](#2.3)
+
+# [Day 3: Metadata and Intro to Bioinformatics](#3-day3)
+## [Metadata]()
+## [Genetic data types]()
+## [Command line basics]()
+## [Running the pipeline]()
+
+# [Day 4: Bioinformatics: Basic phylogenies & interpretation](#4-day4)
+## [ALignments]()
+## [Tree explainer]()
+## [Building a tree]()
+## [Tree visualisation](4.2.1a_tree_visualisation.md)
+
+# [Day 5: Bioinformatics: Further interpretation and visualisation](#5-day5)
+## [MADDOG]()
+## [MicroReact]()
 
