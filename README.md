@@ -7,9 +7,9 @@ The RAGE workshop is a hands-on training course on nanopore-based genome sequenc
 Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scottish Centre for Ecology and the Natural Environment](https://www.gla.ac.uk/research/az/scene/), participants will undergo introductory training in  a sample-to-sequence-to-interpretation workflow, including nanopore library preparation and basic data analysis.
 
 
-### [Participants: click here for more information](participant_information/README.md)
+### Participants: [click here for more information](participant_information/README.md)
 
-### Programme (preliminary):
+### Programme overview:
 
 #### Day 1: Introduction and Wet Lab
 #### Day 2: Wet lab
