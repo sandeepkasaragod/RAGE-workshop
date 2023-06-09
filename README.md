@@ -2,11 +2,13 @@
 
 *Monday 26th - Friday 30th June 2023, University of Glasgow, UK*
 
-### [Participants: click here for more information](participant_information/README.md)
-
 The RAGE workshop is a hands-on training course on nanopore-based genome sequencing to support enhanced canine rabies virus surveillance in a local context.  
 
-Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scottish Centre for Ecology and the Natural Environment](https://www.gla.ac.uk/research/az/scene/), participants will undergo introductory training in  a sample-to-sequence-to-interpretation workflow, including nanopore library preparation and basic data analysis. 
+Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scottish Centre for Ecology and the Natural Environment](https://www.gla.ac.uk/research/az/scene/), participants will undergo introductory training in  a sample-to-sequence-to-interpretation workflow, including nanopore library preparation and basic data analysis.
+
+![alt text](https://www.gla.ac.uk/media/Media_330726_smxx-696x492.jpg)
+
+### [Participants: click here for more information](participant_information/README.md)
 
 ### Programme (preliminary):
 
