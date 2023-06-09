@@ -21,16 +21,16 @@ Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scott
 
 ### Facilitators:
 
-* Kirstyn Brunker <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/> [Link](https://twitter.com/kirstynbrunker)
-* Criselda Bautista <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/> [Link](https://twitter.com/VetEssel)
-* Gurdeep Jaswant <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/> [Link](https://twitter.com/Gurdeep_Jaswant)
-* Kathryn Campbell <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/> [Link](https://twitter.com/ThatKatC)
-* Rowan Durrant <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/> [Link](https://twitter.com/RowanGDurrant)
-* Laura Bergner <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/> [Link](https://twitter.com/laura_bergner)
+* Kirstyn Brunker <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/> [...](https://twitter.com/kirstynbrunker)
+* Criselda Bautista <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/> [...](https://twitter.com/VetEssel)
+* Gurdeep Jaswant <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/> [...](https://twitter.com/Gurdeep_Jaswant)
+* Kathryn Campbell <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/> [...](https://twitter.com/ThatKatC)
+* Rowan Durrant <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/> [...](https://twitter.com/RowanGDurrant)
+* Laura Bergner <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/> [...](https://twitter.com/laura_bergner)
 
 ### Other helpers:
 * Smitha Abraham
-* Martha Luka <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/> [Link](https://twitter.com/martha_mawia)
+* Martha Luka <img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/> [...](https://twitter.com/martha_mawia)
 
 ### Participants:
 We are thrilled to be welcoming participants from 7 different countries, involved (or soon to be involved) in pathogen sequencing in their labs. 
