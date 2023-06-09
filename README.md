@@ -29,6 +29,7 @@ Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scott
 ### Other helpers:
 * Smitha Abraham
 * Martha Luka @martha_mawia [![name](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/martha_mawia/)
+
 <a href="https://twitter.com/martha_mawia/"><img align="left" src="https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png" alt="icon | Twitter"" width="21px"/></a>
 
 ### Participants:
