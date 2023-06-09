@@ -21,14 +21,14 @@ Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scott
 
 ### Facilitators:
 
-* Kirstyn Brunker <a href="https://twitter.com/kirstynbrunker"><img align="right" src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/></a>
-* Criselda Bautista [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/VetEssel)
+* Kirstyn Brunker <a href="https://twitter.com/kirstynbrunker"><img  src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/></a>
+* Criselda Bautista [![](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/VetEssel)
 * Gurdeep Jaswant [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/Gurdeep_Jaswant)
 * Kathryn Campbell [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/ThatKatC)
 * Rowan Durrant [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/RowanGDurrant)
 * Laura Bergner [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/laura_bergner)
 
-<img src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px">
+<a href="https://stackoverflow.com/"><img src="RELATIVE_PATH_TO_IMAGE></img></a>
 ### Other helpers:
 * Smitha Abraham
 * Martha Luka [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/martha_mawia/)
