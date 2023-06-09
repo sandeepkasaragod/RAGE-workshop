@@ -8,7 +8,7 @@ Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scott
 
 SCENE            |  Loch Lomond
 :-------------------------:|:-------------------------:
-![](https://www.urbanrealm.com/images/buildings/building_211.jpg)  |  ![](https://naturallyspeakingpodcast.files.wordpress.com/2015/11/p1080038.jpg?w=698&h=523)
+<img src="https://www.urbanrealm.com/images/buildings/building_211.jpg" width=48)  |  ![](https://naturallyspeakingpodcast.files.wordpress.com/2015/11/p1080038.jpg?w=698&h=523)
 
 
 ### [Participants: click here for more information](participant_information/README.md)
