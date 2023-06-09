@@ -22,6 +22,7 @@ The RAGE workshop is a hands-on training course on nanopore-based genome sequenc
 * Laura Bergner
 
 ### Participants:
+We are thrilled to be welcoming participants from 7 different countries, involved (or soon to be involved) in pathogen sequencing in their labs. 
 
 ### Funding
 Funding for this workshop has been provided by Medical Research Council and Wellcome Trust funding awarded to Kirstyn Brunker and Katie Hampson.
