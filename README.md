@@ -21,7 +21,7 @@ Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scott
 
 ### Facilitators:
 
-* Kirstyn Brunker <a href="https://twitter.com/kirstynbrunker"><img align="right" src="https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/test.svg" alt="kirstyn | Twitter" width="21px"/></a>
+* Kirstyn Brunker <a href="https://twitter.com/kirstynbrunker"><img align="right" src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width="21px"/></a>
 * Criselda Bautista [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/VetEssel)
 * Gurdeep Jaswant [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/Gurdeep_Jaswant)
 * Kathryn Campbell [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/ThatKatC)
