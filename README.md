@@ -28,6 +28,7 @@ Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scott
 * Rowan Durrant [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/RowanGDurrant)
 * Laura Bergner [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/laura_bergner)
 
+<img src="https://github.com/RAGE-toolkit/RAGE-workshop/assets/10990340/a8f4f246-e333-4847-a5e8-9976152093ff" width=50% height=50%>
 ### Other helpers:
 * Smitha Abraham
 * Martha Luka [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/martha_mawia/)
