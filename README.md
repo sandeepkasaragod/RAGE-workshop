@@ -28,7 +28,7 @@ Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scott
 
 ### Other helpers:
 * Smitha Abraham
-* Martha Luka @martha_mawia 
+* Martha Luka @martha_mawia [![name](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/martha_mawia/)
 <a href=”https://twitter.com/martha_mawia/"><img align=”left” src=”https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png" alt=”icon | Twitter” width=”21px”/></a>
 
 ### Participants:
@@ -36,3 +36,10 @@ We are thrilled to be welcoming participants from 7 different countries, involve
 
 ### Funding
 Funding for this workshop has been provided by Medical Research Council and Wellcome Trust funding awarded to Kirstyn Brunker and Katie Hampson.
+
+---
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][3]
+[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
+
+---
