@@ -24,7 +24,7 @@ Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scott
 * Kirstyn Brunker [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter2.png)](https://twitter.com/kirstynbrunker)
 * Criselda Bautista [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/VetEssel)
 * Gurdeep Jaswant [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/Gurdeep_Jaswant)
-* Kathryn Campbell [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/test.png)](https://twitter.com/ThatKatC)
+* Kathryn Campbell [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/test.svg)](https://twitter.com/ThatKatC)
 * Rowan Durrant [![Twitter](https://www.flaticon.com/free-icons/twitter)](https://twitter.com/RowanGDurrant)
 * Laura Bergner [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/laura_bergner)
 
