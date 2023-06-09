@@ -6,7 +6,7 @@ The RAGE workshop is a hands-on training course on nanopore-based genome sequenc
 
 ### Programme (preliminary):
 
-# Day 1: Introduction and Wet Lab
+#### Day 1: Introduction and Wet Lab
 # Day 2: Wet lab
 # Day 3: Bioinformatics I: An introduction
 # Day 4: Bioinformatics II: Basic phylogenies & interpretation
