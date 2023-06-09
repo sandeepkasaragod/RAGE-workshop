@@ -1,13 +1,4 @@
----
-title: "Participant information"
-author: "Kirstyn Brunker"
-date: "2023-06-09"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Information for participants
 
 ## International travel
 
