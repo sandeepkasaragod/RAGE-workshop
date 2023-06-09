@@ -26,6 +26,10 @@ Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scott
 * Rowan Durrant
 * Laura Bergner
 
+### Other helpers:
+* Smitha Abraham
+* Martha Luka @martha_mawia
+
 ### Participants:
 We are thrilled to be welcoming participants from 7 different countries, involved (or soon to be involved) in pathogen sequencing in their labs. 
 
