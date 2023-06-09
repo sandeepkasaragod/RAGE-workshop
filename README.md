@@ -25,13 +25,13 @@ Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scott
 * Criselda Bautista [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/VetEssel)
 * Gurdeep Jaswant [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/Gurdeep_Jaswant)
 * Kathryn Campbell [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/ThatKatC)
-* Rowan Durrant [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/RowanGDurrant)
+* Rowan Durrant [![Twitter](https://www.flaticon.com/free-icons/twitter)](https://twitter.com/RowanGDurrant)
 * Laura Bergner [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/laura_bergner)
 
 ### Other helpers:
 * Smitha Abraham
 * Martha Luka [![Twitter](https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png)](https://twitter.com/martha_mawia/)
-
+ <a href="https://www.flaticon.com/free-icons/twitter" title="twitter icons">Twitter icons created by Stockio - Flaticon</a>
 ### Participants:
 We are thrilled to be welcoming participants from 7 different countries, involved (or soon to be involved) in pathogen sequencing in their labs. 
 
