@@ -1,0 +1,19 @@
+---
+title: "Participant information"
+author: "Kirstyn Brunker"
+date: "2023-06-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## International travel
+
+Our university travel provider, Selective, has booked your flights. A pdf with your flight itinerary has been shared via email.
+
+
+## Arrival in Glasgow
+
+

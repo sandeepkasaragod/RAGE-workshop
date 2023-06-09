@@ -25,7 +25,7 @@ Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scott
 
 ### Participants:
 We are thrilled to be welcoming participants from 7 different countries, involved (or soon to be involved) in pathogen sequencing in their labs. 
-### [Participant information](#participant_information)
+### [Participant information](#participant_information/participant_info.rmd)
 
 ### Funding
 Funding for this workshop has been provided by Medical Research Council and Wellcome Trust funding awarded to Kirstyn Brunker and Katie Hampson.
