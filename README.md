@@ -28,7 +28,8 @@ Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scott
 
 ### Other helpers:
 * Smitha Abraham
-* Martha Luka @martha_mawia <a href=”https://twitter.com/martha_mawia/"><img align=”left” src=”https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png" alt=”icon | Twitter” width=”21px”/></a>
+* Martha Luka @martha_mawia 
+<a href=”https://twitter.com/martha_mawia/"><img align=”left” src=”https://github.com/RAGE-toolkit/RAGE-workshop/tree/main/icon/twitter.png" alt=”icon | Twitter” width=”21px”/></a>
 
 ### Participants:
 We are thrilled to be welcoming participants from 7 different countries, involved (or soon to be involved) in pathogen sequencing in their labs. 
