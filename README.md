@@ -1,6 +1,7 @@
 # Rabies virus genomic epidemiology (RAGE) workshop
 
 *Monday 26th - Friday 30th June 2023, University of Glasgow, UK*
+
 <img align="left" src="https://www.urbanrealm.com/images/buildings/building_211.jpg">
 The RAGE workshop is a hands-on training course on nanopore-based genome sequencing to support enhanced canine rabies virus surveillance in a local context.  
 
