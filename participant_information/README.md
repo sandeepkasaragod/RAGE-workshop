@@ -4,9 +4,15 @@ Host contact: Kirstyn Brunker, kirstyn.brunker@glasgow.ac.uk
 
 ## Pre-workshop preparation
 Here is some recommended reading (not mandatory!):
-* [Rapid in-country rabies virus sequencing](https://wellcomeopenresearch.org/articles/5-3/v2)
-* [Multiplex PCR method for virus sequencing](https://www.nature.com/articles/nprot.2017.066)
-* [Rabies virus genetic characterisation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010023)
+* [Brief intro to  command line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+* [Paper: Rapid in-country rabies virus sequencing](https://wellcomeopenresearch.org/articles/5-3/v2)
+* [Paper: Multiplex PCR method for virus sequencing](https://www.nature.com/articles/nprot.2017.066)
+* [Paper: Rabies virus genetic characterisation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010023)
+
+## Things to bring
+Not much is required so pack light. Weather in Glasgow is **variable** so be prepared for warm weather (for us that is anything >20oC!) and rain showers.
+* Laptop
+* For your stay at SCENE: bath/hand towels, toiletries, hairdryers and anything else they you may need (it is not a hotel!).  Also please bring with you slippers or indoor footwear for inside building. They provide bed Linen, hand soap and loo roll.
 
 ## Travel
 
@@ -18,7 +24,7 @@ Your flight will arrive at [Glasgow International Airport](https://www.glasgowai
 
 ## Accommodation
 
-During the workshop (26-30th) you will stay on location at a university field station, SCENE (outside of Glasgow), in single or multiple occupancy rooms. Either side of the workshop (25th June & 1st July) we will provide hotel accommodation in Glasgow city. Due to high demand during the summer months (and an Arctic Monkeys gig!) we have had to split your stay into 2 hotels, therefore the itinerary is a bit complicated: 
+During the workshop (26-30th) you will stay on location at a university field station, SCENE (outside of Glasgow), in single or multiple occupancy rooms (some of you will be sharing). Either side of the workshop (25th June & 1st July) we will provide hotel accommodation in Glasgow city. Due to high demand during the summer months (and an Arctic Monkeys gig!) we have had to split your stay into 2 hotels, therefore the itinerary is a bit complicated: 
 
 #### 25-26th June: [Motel One Glasgow](https://www.motel-one.com/en/hotels/glasgow/hotel-glasgow/) 
 Address: [78-82 Oswald St, Glasgow G1 4PL](https://www.google.com/maps/place/Motel+One/@55.859211,-4.2853997,17z/data=!4m9!3m8!1s0x4888469c3b4faced:0xbbdada611fdf447!5m2!4m1!1i2!8m2!3d55.8583001!4d-4.2595688!16s%2Fg%2F11f4ppgx9m?entry=ttu)
