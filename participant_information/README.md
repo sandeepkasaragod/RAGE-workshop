@@ -3,11 +3,11 @@
 Host contact: Kirstyn Brunker, kirstyn.brunker@glasgow.ac.uk
 
 ## Pre-workshop preparation
-Here is some recommended reading (not mandatory!):
-* [Brief intro to  command line](https://ryanstutorials.net/linuxtutorial/commandline.php)
-* [Paper: Rapid in-country rabies virus sequencing](https://wellcomeopenresearch.org/articles/5-3/v2)
-* [Paper: Multiplex PCR method for virus sequencing](https://www.nature.com/articles/nprot.2017.066)
-* [Paper: Rabies virus genetic characterisation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010023)
+Here is some recommended reading (not mandatory!):  
+* [Brief intro to  command line](https://ryanstutorials.net/linuxtutorial/commandline.php)  
+* [Paper: Rapid in-country rabies virus sequencing](https://wellcomeopenresearch.org/articles/5-3/v2)  
+* [Paper: Multiplex PCR method for virus sequencing](https://www.nature.com/articles/nprot.2017.066)  
+* [Paper: Rabies virus genetic characterisation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1010023)  
 
 ## Things to bring
 Not much is required so pack light. Weather in Glasgow is **variable** so be prepared for warm weather (for us that is anything >20oC!) and rain showers.  
@@ -37,7 +37,7 @@ University field station beside Loch Lomond. A beautiful location!
 
 #### 1-2nd July: [Hotel Campanile Glasgow SECC](https://glasgow.campanile.com/en-us/)  
 Address: [10 Tunnel St, Glasgow G3 8HL](https://www.google.com/maps/place/Campanile+Glasgow+SECC-Hydro+Hotel/@55.859211,-4.2853997,17z/data=!3m1!4b1!4m9!3m8!1s0x4888467fd0455cad:0x440ff7f44b7cb167!5m2!4m1!1i2!8m2!3d55.859211!4d-4.283211!16s%2Fg%2F1tgc92nq?entry=ttu)  
-* No meals provided  
+* No meals provided   
 Hotel in the west end, close to the university and good access to public transport.  
 
 Please take your luggage with you to SCENE and between hotels!
