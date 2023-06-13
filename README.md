@@ -1,4 +1,4 @@
-<img align="right" src="icon/RAGE_train.jpg" width=50% height=50%>
+<img align="right" src="icon/RAGE_train.jpg" width=40% height=40%>
 
 # Rabies Accessible Genomic Epidemiology (RAGE) workshop  
 
