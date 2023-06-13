@@ -1,5 +1,5 @@
 
-![RAGE](icon/RAGE.jpg)
+<img src="icon/RAGE.jpg" width=50% height=50%>
 
 # RAGE-workshop
 
