@@ -1,5 +1,5 @@
 
-<img src="icon/RAGE.jpg" width="150" height="280">
+<img src="icon/RAGE.jpg" height="100">
 
 
 <img align="right" src="icon/RAGE.jpg" width=50% height=50%>
