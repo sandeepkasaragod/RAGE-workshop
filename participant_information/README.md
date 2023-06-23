@@ -1,6 +1,11 @@
 # Information for participants
 
 Host contact: Kirstyn Brunker, kirstyn.brunker@glasgow.ac.uk
+-----
+## Arrangements for Monday 26th June
+Please meet us at the [Graham Kerr Building, 82 Hillhead St, Glasgow G12 8QQ](https://www.google.com/maps/dir//Graham+Kerr+Building,+82+Hillhead+St,+Glasgow+G12+8QQ/@55.8714317,-4.2951252,17z/data=!4m18!1m8!3m7!1s0x488845d1c50b42f5:0xb7f4183349c3cc71!2sGraham+Kerr+Building,+82+Hillhead+St,+Glasgow+G12+8QQ!3b1!8m2!3d55.8714317!4d-4.2929365!16s%2Fg%2F1tf47r22!4m8!1m0!1m5!1m1!1s0x488845d1c50b42f5:0xb7f4183349c3cc71!2m2!1d-4.2929365!2d55.8714317!3e2?entry=ttu) at **7:45am**. Bring your luggage and belongings for SCENE.  Please do not be late.
+
+-------
 
 ## Pre-workshop preparation
 Here is some recommended reading (not mandatory!):  
