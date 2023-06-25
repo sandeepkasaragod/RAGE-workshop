@@ -11,7 +11,7 @@ Over 5-days, based on the banks of Loch Lomand at the University's scenic [Scott
 ---
 
 ### Programme overview:
-
+[Full Schedule](https://docs.google.com/spreadsheets/d/1JCL9Xy9NZ3_kTtE0744eJAaLKgEMXqvWHUJG7V9-ml0/edit?usp=sharing)
 #### Day 1: Introduction and Wet Lab
 #### Day 2: Wet lab
 #### Day 3: Bioinformatics I: An introduction
