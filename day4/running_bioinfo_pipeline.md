@@ -195,7 +195,7 @@ restrictions on read length. Enter the following command, remembering to
 edit parts with `< >`:
 
 ``` shell
-artic guppyplex --prefix <output> <path_to_passFastq>
+artic guppyplex --prefix <output> --directory <path_to_passFastq>
 ```
 
 `<output>` = provide a name for the output files `<path_to_passFastq>` =
