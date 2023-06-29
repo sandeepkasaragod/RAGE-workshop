@@ -66,7 +66,7 @@ the pipeline commands. We have a custom conda environment specifically
 for this: artic-rabv
 
 ``` shell
-conda activate ~/shared-team/conda/workshop/artic-rabv
+conda activate ~/shared-team/conda/shared/artic-rabv
 ```
 
 ## 1.4 Data organisation

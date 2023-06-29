@@ -33,7 +33,7 @@ This is not simply a copy and paste exercise! The commands you are instructed to
 First we need to ensure we have access to all the tools needed to run the pipeline commands. We have a custom conda environment specifically for this: artic-rabv
 
 ```shell
-conda activate ~/shared-team/conda/workshop/artic-rabv
+conda activate ~/shared-team/conda/shared/artic-rabv
 ```
 
 ## Data organisation  
