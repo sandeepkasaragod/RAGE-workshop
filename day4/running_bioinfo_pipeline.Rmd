@@ -101,7 +101,16 @@ A .fastq file may contain multiple records. The default number of records in a f
 
 ### Task 4
 
-Look in one of the barcode files, which contains fastq files. Can you identify the different lines that make up one read?
+Look in one of the barcode files, which contains fastq files. Open a fastq file using the command:
+
+```shell
+vim <fastq_file>
+```
+<fastq_file> = the path to the fastq file you want to open
+
+Can you identify the different lines that make up one read?
+
+To exit vim: type `:q` and enter
 
 --------
 

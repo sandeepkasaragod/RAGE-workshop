@@ -170,8 +170,18 @@ records in a fastq file generated during a nanopore run is 4000 reads
 
 ### 1.5.4 Task 4
 
-Look in one of the barcode files, which contains fastq files. Can you
-identify the different lines that make up one read?
+Look in one of the barcode files, which contains fastq files. Open a
+fastq file using the command:
+
+``` shell
+vim <fastq_file>
+```
+
+<fastq_file> = the path to the fastq file you want to open
+
+Can you identify the different lines that make up one read?
+
+To exit vim: type `:q` and enter
 
 ------------------------------------------------------------------------
 
