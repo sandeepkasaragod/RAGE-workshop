@@ -85,7 +85,7 @@ some file structure to store the output files we will generate.
 Make a new directory in the home directory called `analysis`:
 
 ``` shell
-mkdir /home/joyvan/analysis
+mkdir /home/jovyan/analysis
 ```
 
 This command gives an absolute path but you could provide a relative
@@ -96,7 +96,7 @@ one.
 Now make a sub-directory within analysis called `workshop_data`:
 
 ``` shell
-mkdir /home/joyvan/analysis/workshop_data
+mkdir /home/jovyan/analysis/workshop_data
 ```
 
 ------------------------------------------------------------------------
@@ -110,7 +110,7 @@ new file that I will call sample1, my `<output>` file path would
 therefore be:
 
 ``` shell
-/home/joyvan/analysis/workshop_data/sample1
+/home/jovyan/analysis/workshop_data/sample1
 ```
 
 ------------------------------------------------------------------------
@@ -264,7 +264,7 @@ but we won’t get in to that here!
 The command syntax is as follows:
 
 ``` shell
-artic minion --no-frameshifts --medaka --medaka-model r941_min_fast_g303 --normalise 200 --threads 4 --scheme-directory /home/joyvan/shared-team/artic-rabv/primer-schemes/ --read-file <xx.fastq> rabv_ea/V1 <samplename>
+artic minion --no-frameshifts --medaka --medaka-model r941_min_fast_g303 --normalise 200 --threads 4 --scheme-directory /home/jovyan/shared-team/artic-rabv/primer-schemes/ --read-file <xx.fastq> rabv_ea/V1 <samplename>
 ```
 
 `<xx.fastq>` = the input date, i.e. the fastq file associated with a
