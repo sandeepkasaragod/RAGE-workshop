@@ -61,7 +61,7 @@ mkdir /home/joyvan/analysis/workshop_data
 --------  
 
 You will direct all of your output files, generated in the rest of the tutorial, to this folder.  
-That means any time you see a command that contains `<output>` you must use this file path to precede the name of your output files to tell the command line where to store the files. For example, I might generate a new file that I will call sample1, my <output> file path would therefore be:
+That means any time you see a command that contains `<output>` you must use this file path to precede the name of your output files to tell the command line where to store the files. For example, I might generate a new file that I will call sample1, my `<output>` file path would therefore be:
 
 ```shell
 /home/joyvan/analysis/workshop_data/sample1
@@ -73,7 +73,7 @@ That means any time you see a command that contains `<output>` you must use this
 ## Data  
 We will be working from some rabies virus sequence data from the Philippines. This data was generated on a real-time sequencing run, which means that the raw signal data (caused by disruption to chemical signal when DNA passes through the pore) has been basecalled to genetic code. The basecalled data is in fastq files, file formats that contain read sequence data and associated quality scores. These files have also been live demultiplexed i.e. during the run MinKNOW separated the reads into barcode folders.  
 
-The fastq files are in the location  `shared-team/sequence_data/fastq_pass`. 
+The fastq files are in the location:   `shared-team/sequence_data/fastq_pass`
 
 --------
 
@@ -88,14 +88,14 @@ List the contents of the folder. How many and what barcodes were used in the run
 ### Fastq files
 The fastq format is (usually) a 4 line string (text) data format denoting a sequence and it's corresponding quality score values. There different ways of encoding quality in a .fastq file however, files from ONT sequencing devices use sanger phred scores. A sequence record is made up of 4 lines:
 
-line 1: Sequence ID and Sequence description  
+line 1: Sequence ID and Sequence description    
 line 2: Sequence line e.g. ATCGs  
 line 3: plus symbol (can additionally have description here)  
 line 4: Sequence line qualities  
 
 For example a sample record looks like:
 
-A .fastq file may contain multiple records. The default number of records in a fastq file generated during a nanopore run is 4000 reads (16000 lines).
+A fastq file may contain multiple records. The default number of records in a fastq file generated during a nanopore run is 4000 reads (16000 lines).
 
 --------
 
@@ -106,7 +106,7 @@ Look inside one of the barcode directories, which contains fastq files. Open a f
 ```shell
 vim <fastq_file>
 ```
-<fastq_file> = the path to the fastq file you want to open
+`<fastq_file>` = the path to the fastq file you want to open
 
 Can you identify the different lines that make up one read?
 
@@ -119,13 +119,13 @@ The data in it's current format is difficult to work with- multiple files, each 
 The first command we will use is called **artic guppyplex**. This command is used to do 2 things: 1) collect all of the fastq reads into a single file; 2) apply a filter on read length.  
 
 ### Let's explore this a little
-First let's apply the **artic guppyplex** command without any restrictions on read length. Enter the following command, remembering to edit parts with < >:  
+First let's apply the **artic guppyplex** command without any restrictions on read length. Enter the following command, remembering to edit parts with `< >`:  
 
 ```shell
 artic guppyplex --prefix <output> <path_to_passFastq>
 ```
-<output> = provide a name for the output files
-<path_to_passFastq> = provide the location (the filepath) of the input data (the pass fastq folder)
+`<output>` = provide a name for the output files
+`<path_to_passFastq>` = provide the location (the filepath) of the input data (the pass fastq folder)
 
 --------
 
@@ -136,7 +136,7 @@ Count the number of reads in a concatenated fastq file. We can do this using the
 grep -c "^@" <barcode_fastq_file>
 ```
 
-Essentially this command asks the command line to count the number of @ characters that occur at the start of a line in the fastq file. This corresponds to the header line in a fastq file, remember each read has a header line. 
+Essentially this command asks the command line to count the number of `@` characters that occur at the start of a line in the fastq file. This corresponds to the header line in a fastq file, remember each read has a header line. 
 
 --------
 
@@ -168,8 +168,8 @@ The command syntax is as follows:
 ```shell
 artic minion --no-frameshifts --medaka --medaka-model r941_min_fast_g303 --normalise 200 --threads 4 --scheme-directory /home/joyvan/shared-team/artic-rabv/primer-schemes/ --read-file <xx.fastq> rabv_ea/V1 <samplename>
 ```
-<xx.fastq> = the input date, i.e. the fastq file associated with a barcode. Remember to provide the full filepath
-<samplename> = the name of the output files. This will prepend every file that is produced and should ideally be the sample name e.g. barcode 70 corresponds to sub6988. Remember to add the output file path before this!
+`<xx.fastq>` = the input date, i.e. the fastq file associated with a barcode. Remember to provide the full filepath
+`<samplename>` = the name of the output files. This will prepend every file that is produced and should ideally be the sample name e.g. barcode 70 corresponds to sub6988. Remember to add the output file path before this!
 
 
 --------
@@ -183,11 +183,12 @@ Choose a barcode file and execute the command. With your rapidly growing underst
 Hopefully you have managed to execute the commands on a few barcoded samples. Let's now look at some of the output files. 
 
 ## BAM files  
-Several bam files are produced by the pipeline: 
-1. xx.sorted.bam
-2. trimmed.bam
-3. primertrimmed.bam  
-The names give you a hint as to how they differ. 
+Several bam files are produced by the pipeline:   
+
+1. xx.sorted.bam  
+2. trimmed.bam  
+3. primertrimmed.bam   
+The names give you a hint as to how they differ.  
 
 ### Full alignment data  
 The first version contains ALL of the reads aligned to the reference genome, without any barcode trimming. So this is the best file to look at in order to see the full amount of data produced, similar to RAMPART. 
@@ -223,13 +224,14 @@ Let's get a few summary stats to help us assess the data. We will use a programm
 ```shell
 /home/jovyan/shared-team/weeSAM/weeSAM --bam <input_bam> --out <output>
 ```
-<input_bam> = a sorted.bam file
-<input_bam> = name (and location) of output
+`<input_bam>` = a sorted.bam file
+`<input_bam>` = name (and location) of output
 
-For your reference here is some more detail about those bam files: 
-1. xx.sorted.bam - - BAM file containing all the reads aligned to the reference sequence (there is no amplicon primer trimming in this file)
-2. trimmed.bam - BAM file containing normalised (downsampled) reads with amplicon primers left on - this is the file used for variant calling
+For your reference here is some more detail about those bam files:  
+
+1. xx.sorted.bam - - BAM file containing all the reads aligned to the reference sequence (there is no amplicon primer trimming in this file)  
+2. trimmed.bam - BAM file containing normalised (downsampled) reads with amplicon primers left on - this is the file used for variant calling  
 3. primertrimmed.bam  - BAM file containing normalised (downsampled) reads with amplicon primers trimmed off
-barcode06.pass.vcf.gz - detected variants that PASSed the filters in VCF format (gzipped)
+barcode06.pass.vcf.gz - detected variants that PASSed the filters in VCF format (gzipped)  
 
 

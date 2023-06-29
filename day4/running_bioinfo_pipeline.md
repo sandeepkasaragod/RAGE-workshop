@@ -106,11 +106,8 @@ tutorial, to this folder.
 That means any time you see a command that contains `<output>` you must
 use this file path to precede the name of your output files to tell the
 command line where to store the files. For example, I might generate a
-new file that I will call sample1, my
-
-<output>
-
-file path would therefore be:
+new file that I will call sample1, my `<output>` file path would
+therefore be:
 
 ``` shell
 /home/joyvan/analysis/workshop_data/sample1
@@ -129,8 +126,8 @@ read sequence data and associated quality scores. These files have also
 been live demultiplexed i.e. during the run MinKNOW separated the reads
 into barcode folders.
 
-The fastq files are in the location
-`shared-team/sequence_data/fastq_pass`.
+The fastq files are in the location:
+`shared-team/sequence_data/fastq_pass`
 
 ------------------------------------------------------------------------
 
@@ -160,9 +157,9 @@ line 4: Sequence line qualities
 
 For example a sample record looks like:
 
-A .fastq file may contain multiple records. The default number of
-records in a fastq file generated during a nanopore run is 4000 reads
-(16000 lines).
+A fastq file may contain multiple records. The default number of records
+in a fastq file generated during a nanopore run is 4000 reads (16000
+lines).
 
 ------------------------------------------------------------------------
 
@@ -175,7 +172,7 @@ Open a fastq file using the command:
 vim <fastq_file>
 ```
 
-<fastq_file> = the path to the fastq file you want to open
+`<fastq_file>` = the path to the fastq file you want to open
 
 Can you identify the different lines that make up one read?
 
@@ -195,16 +192,15 @@ single file; 2) apply a filter on read length.
 
 First let’s apply the **artic guppyplex** command without any
 restrictions on read length. Enter the following command, remembering to
-edit parts with \< \>:
+edit parts with `< >`:
 
 ``` shell
 artic guppyplex --prefix <output> <path_to_passFastq>
 ```
 
-<output>
-
-= provide a name for the output files <path_to_passFastq> = provide the
-location (the filepath) of the input data (the pass fastq folder)
+`<output>` = provide a name for the output files `<path_to_passFastq>` =
+provide the location (the filepath) of the input data (the pass fastq
+folder)
 
 ------------------------------------------------------------------------
 
@@ -217,8 +213,8 @@ using the following command:
 grep -c "^@" <barcode_fastq_file>
 ```
 
-Essentially this command asks the command line to count the number of @
-characters that occur at the start of a line in the fastq file. This
+Essentially this command asks the command line to count the number of
+`@` characters that occur at the start of a line in the fastq file. This
 corresponds to the header line in a fastq file, remember each read has a
 header line.
 
@@ -271,8 +267,8 @@ The command syntax is as follows:
 artic minion --no-frameshifts --medaka --medaka-model r941_min_fast_g303 --normalise 200 --threads 4 --scheme-directory /home/joyvan/shared-team/artic-rabv/primer-schemes/ --read-file <xx.fastq> rabv_ea/V1 <samplename>
 ```
 
-\<xx.fastq\> = the input date, i.e. the fastq file associated with a
-barcode. Remember to provide the full filepath <samplename> = the name
+`<xx.fastq>` = the input date, i.e. the fastq file associated with a
+barcode. Remember to provide the full filepath `<samplename>` = the name
 of the output files. This will prepend every file that is produced and
 should ideally be the sample name e.g. barcode 70 corresponds to
 sub6988. Remember to add the output file path before this!
@@ -294,9 +290,12 @@ samples. Let’s now look at some of the output files.
 
 ## 1.9 BAM files
 
-Several bam files are produced by the pipeline: 1. xx.sorted.bam 2.
-trimmed.bam 3. primertrimmed.bam  
-The names give you a hint as to how they differ.
+Several bam files are produced by the pipeline:
+
+1.  xx.sorted.bam  
+2.  trimmed.bam  
+3.  primertrimmed.bam  
+    The names give you a hint as to how they differ.
 
 ### 1.9.1 Full alignment data
 
@@ -354,14 +353,17 @@ programme called weeSAM.
 /home/jovyan/shared-team/weeSAM/weeSAM --bam <input_bam> --out <output>
 ```
 
-<input_bam> = a sorted.bam file <input_bam> = name (and location) of
+`<input_bam>` = a sorted.bam file `<input_bam>` = name (and location) of
 output
 
-For your reference here is some more detail about those bam files: 1.
-xx.sorted.bam - - BAM file containing all the reads aligned to the
-reference sequence (there is no amplicon primer trimming in this file)
-2. trimmed.bam - BAM file containing normalised (downsampled) reads with
-amplicon primers left on - this is the file used for variant calling 3.
-primertrimmed.bam - BAM file containing normalised (downsampled) reads
-with amplicon primers trimmed off barcode06.pass.vcf.gz - detected
-variants that PASSed the filters in VCF format (gzipped)
+For your reference here is some more detail about those bam files:
+
+1.  xx.sorted.bam - - BAM file containing all the reads aligned to the
+    reference sequence (there is no amplicon primer trimming in this
+    file)  
+2.  trimmed.bam - BAM file containing normalised (downsampled) reads
+    with amplicon primers left on - this is the file used for variant
+    calling  
+3.  primertrimmed.bam - BAM file containing normalised (downsampled)
+    reads with amplicon primers trimmed off barcode06.pass.vcf.gz -
+    detected variants that PASSed the filters in VCF format (gzipped)
