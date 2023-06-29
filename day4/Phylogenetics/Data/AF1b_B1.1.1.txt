@@ -1,0 +1,43 @@
+ID	lineage	year	place	lat	long	species	date
+KR906758	Cosmopolitan AF1b_B1.1.1	2010	Morogoro	-6.732339186	37.8835558	Domestic dog	04/04/2010
+KR906755	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.601712278	34.41290548	Livestock: Cow	02/01/2011
+KY210225	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.589044	34.3137	Livestock: Goat	21/02/2011
+KY210229	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.790321542	34.59307186	Domestic dog	22/05/2011
+KY210231	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.874362284	34.77298852	Domestic dog	01/06/2011
+KY210235	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.753548724	34.78332227	Domestic dog	10/06/2011
+KY210232	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.837683141	34.68151584	Domestic dog	20/06/2011
+KY210234	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.83625967	34.70431552	Domestic dog	03/07/2011
+KY210239	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.833021191	34.67686498	Domestic dog	23/07/2011
+KY210238	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.748658404	34.59884876	Domestic dog	23/07/2011
+KY210241	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.820089877	34.75171644	Livestock: Goat	24/07/2011
+KY210243	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.826392934	34.76079046	Domestic dog	25/07/2011
+KR534248	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.639875	34.373403	Livestock: Cow	01/08/2011
+KR534245	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.629875	34.363403	Livestock: Cow	03/08/2011
+KR534244	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.883693	34.738765	Domestic dog	04/08/2011
+KR534246	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.690924	34.622915	Wildlife: Civet	10/08/2011
+KR534247	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.738658404	34.58884876	Domestic dog	12/08/2011
+KR906771	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.606757614	34.3755925	Domestic dog	15/08/2011
+KR534249	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.832655032	34.60324708	Domestic dog	18/08/2011
+KR534254	Cosmopolitan AF1b_B1.1.1	2011	Serengeti	-1.736263	34.630161	Cat	09/09/2011
+KY210307	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.887671	34.638017	Domestic dog	24/03/2012
+KR906782	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.739437	34.357349	Domestic dog	29/04/2012
+KY210289	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.81842	34.672699	Domestic dog	30/04/2012
+KY210290	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.875844	34.664538	Domestic dog	06/05/2012
+KY210291	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.830894376	34.62006157	Wildlife: Jackal	06/05/2012
+KY210292	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.971009576	34.6261785	Domestic dog	11/05/2012
+KY210293	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.981009576	34.6361785	Domestic dog	17/05/2012
+KR906787	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.835480627	34.66763712	Domestic dog	07/07/2012
+KY210301	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.812616	34.601297	Livestock: Cow	16/07/2012
+KY210300	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.91456387	34.75842481	Domestic dog	19/07/2012
+KY210299	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.884645245	34.69976032	Domestic dog	19/07/2012
+KY210302	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.962222	34.641918	Livestock: Goat	21/07/2012
+KY210246	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.779241834	34.71449856	Livestock: Sheep	17/09/2012
+KY210247	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.834464314	34.69989205	Domestic dog	04/10/2012
+KY210249	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.995745	34.66124	Domestic dog	13/10/2012
+KY210251	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.667687787	34.31485692	Domestic dog	10/11/2012
+KY210250	Cosmopolitan AF1b_B1.1.1	2012	Serengeti	-1.684725023	34.29282905	Domestic dog	13/11/2012
+KY210258	Cosmopolitan AF1b_B1.1.1	2013	Serengeti	-1.837091	34.686234	Domestic dog	02/01/2013
+KY210259	Cosmopolitan AF1b_B1.1.1	2013	Serengeti	-1.741049	34.367785	Cat	22/02/2013
+KY210260	Cosmopolitan AF1b_B1.1.1	2013	Serengeti	-1.841545133	34.67144448	Domestic dog	25/02/2013
+KY210272	Cosmopolitan AF1b_B1.1.1	2013	Serengeti	-1.775961	34.778724	Domestic dog	22/08/2013
+KY210271	Cosmopolitan AF1b_B1.1.1	2013	Serengeti	-1.852203903	34.53624986	Domestic dog	03/09/2013
