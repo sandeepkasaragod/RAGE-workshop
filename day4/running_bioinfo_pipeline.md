@@ -103,13 +103,10 @@ mkdir /home/joyvan/analysis/workshop_data
 
 You will direct all of your output files, generated in the rest of the
 tutorial, to this folder.  
-That means any time you see a command that contains
-
-<output>
-
-you must use this file path to precede the name of your output files to
-tell the command line where to store the files. For example, I might
-generate a new file that I will call sample1, my
+That means any time you see a command that contains `<output>` you must
+use this file path to precede the name of your output files to tell the
+command line where to store the files. For example, I might generate a
+new file that I will call sample1, my
 
 <output>
 
@@ -156,8 +153,9 @@ different ways of encoding quality in a .fastq file however, files from
 ONT sequencing devices use sanger phred scores. A sequence record is
 made up of 4 lines:
 
-line 1: Sequence ID and Sequence description line 2: Sequence line
-e.g. ATCGs line 3: plus symbol (can additionally have description here)
+line 1: Sequence ID and Sequence description  
+line 2: Sequence line e.g. ATCGs  
+line 3: plus symbol (can additionally have description here)  
 line 4: Sequence line qualities
 
 For example a sample record looks like:
@@ -170,8 +168,8 @@ records in a fastq file generated during a nanopore run is 4000 reads
 
 ### 1.5.4 Task 4
 
-Look in one of the barcode files, which contains fastq files. Open a
-fastq file using the command:
+Look inside one of the barcode directories, which contains fastq files.
+Open a fastq file using the command:
 
 ``` shell
 vim <fastq_file>
