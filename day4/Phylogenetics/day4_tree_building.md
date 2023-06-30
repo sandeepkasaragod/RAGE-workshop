@@ -31,7 +31,7 @@ Make sure you're in your `YOURNAME_Phylogenetics_analysis` directory you just ma
 ___
 
 ### Task 1
-Enter the MADDOG conda environment by writing the command `conda activate conda/shared/MADDOG` from within the shared-team folder
+Enter the MADDOG conda environment by writing the command `conda activate ~/shared-team/conda/2497997c.workshopkb/MADDOG` from within the shared-team folder
 
 Write the command `mafft omicron_subset_countries.fasta > omicron_subset_countries_aligned.fasta` 
 
