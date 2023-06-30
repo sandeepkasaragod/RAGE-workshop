@@ -8,7 +8,7 @@ It can be accessed at: http://rabv-glue.cvr.gla.ac.uk/#/home
 
 ## Task 1
 
-Go to Climb and download the `MADDOG.fasta` file in the `shared-team/Phylogenetic_data/` folder. 
+Go to Climb and download the `MADDOG.fasta` file in the `~/shared-team/Phylogenetic_data/` folder. 
 
 Go to RABV-GLUE (http://rabv-glue.cvr.gla.ac.uk/#/home) and click Analysis -> Genotyping and Interpretation
 
@@ -58,12 +58,12 @@ Go to climb and access the terminal.
 
 Navigate inside the MADDOG directory using the terminal.
 
-Enter the MADDOG conda environment using `conda activate conda/shared/MADDOG`
+Enter the MADDOG conda environment using `conda activate ~/shared-team/conda/2497997c.workshopkb/MADDOG`
 
-Make a new folder in the MADDOG directory, and name this with your first name.
+Make a new folder **in the MADDOG directory**, and name this with your first name.
 Note: There can be no spaces or special characters in this name! Hyphens and underscores are allowed
 
-Copy the `MADDOG.fasta` and `MADDOG.csv` files from shared-team/Phylogenetic_data/ into this folder.
+Copy the `MADDOG.fasta` and `MADDOG.csv` files from `~/shared-team/Phylogenetic_data/` into this folder.
 
 ## Assignment
 
@@ -102,4 +102,4 @@ When prompted, enter the name of the folder you just made.
 
 Lineage designation is now taking place! This runs a lot faster on our own laptops, off of climb, as we automatically optimise parameters. 
 
-It would take too long to run on climb, so we'll stop the run by pressing ctrl + z and instead look at a run I completed earlier on this dataset in the next session.
+It would take too long to run on climb, so we'll stop the run by pressing ctrl + c and instead look at a run I completed earlier on this dataset in the next session.
