@@ -1,12 +1,12 @@
-#Using Data-Flo and MicroReact 
+# Using Data-Flo and MicroReact 
 
-##Metadata
+## Metadata
 We can have a shared google sheet for adding information on our sequences
 
 Check out this one as an example:
 https://docs.google.com/spreadsheets/d/1xBKWrqFlCq9Ww_lFlGcV92Jai3gWRTwPVTqB9UVrFIE/edit?usp=sharing
 
-##Data-Flo
+## Data-Flo
 
 Data flow is a tool to process data and output a useful format. It's a modular tool, allowing users to click and drag boxes rather than use code. This data-flo takes the google sheet we just used, processes it, and creates a microreact. 
 
@@ -19,7 +19,7 @@ To see the modules and how the data is processed, click the pencil (edit) icon a
 https://data-flo.io/run?qc4RxhAde1KBDfLVJxYcQG
 
 
-##Microreact
+## Microreact
 
 Microreact is a great interactive visualisation tool. It can go down very well with presentations to stakeholders! You can add all sorts of metadata, sequence data and even trees to your visualisations. Check out this one to visualise all the sequence data from Tanzania:
 
