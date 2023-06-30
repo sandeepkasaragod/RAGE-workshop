@@ -40,7 +40,7 @@ When you arrive in Glasgow, travel from the airport to this hotel! Hotel in the 
 University field station beside Loch Lomond. A beautiful location!  
 * Breakfast, lunch & dinner provided (tea/coffee self-serve)  
 
-#### 1-2nd July: [Hotel Campanile Glasgow SECC](https://glasgow.campanile.com/en-us/)  
+#### 30 June-2nd July (2 nights): [Hotel Campanile Glasgow SECC](https://glasgow.campanile.com/en-us/)  
 Address: [10 Tunnel St, Glasgow G3 8HL](https://www.google.com/maps/place/Campanile+Glasgow+SECC-Hydro+Hotel/@55.859211,-4.2853997,17z/data=!3m1!4b1!4m9!3m8!1s0x4888467fd0455cad:0x440ff7f44b7cb167!5m2!4m1!1i2!8m2!3d55.859211!4d-4.283211!16s%2Fg%2F1tgc92nq?entry=ttu)  
 Hotel in the west end, close to the university and good access to public transport.  
 * No meals provided   
