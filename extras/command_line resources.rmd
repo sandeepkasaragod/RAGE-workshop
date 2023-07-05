@@ -1,0 +1,25 @@
+---
+title: "Other command line practice"
+author: "Kirstyn Brunker"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Online practice  
+These websites offer tutorial based practice on command line in an (linux) online terminal - so you don't need to worry about messing up anything on your own computer! Offers a bit of a safety net if you are worried.  
+
+[cmdchallenge](https://cmdchallenge.com/)  
+
+[webminal, need to register for an account first](https://www.webminal.org/register/)  
+
+## Other  
+Plenty of resources online found by googling but a few below:  
+
+Free courses:  
+[linux basics](https://www.udacity.com/course/linux-command-line-basics--ud595)  
+[beginners tutorial](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)  
+[basics bash scripting](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)  
