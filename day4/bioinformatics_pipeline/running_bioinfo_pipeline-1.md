@@ -27,7 +27,7 @@ Kirstyn Brunker
 # 1 Bioinformatic pipeline
 
 During this practical session will be running the Artic-nf workflow
-which requires nextflow and artic packages to be installed on the conda
+which requires Nextflow and Artic packages to be installed on the conda
 environment. This workflow processes the raw data (fast5/pod5) to produce the
  consensus sequences.
 
@@ -43,13 +43,13 @@ Artic-nf workflow contains 6 major components
 - <a href="https://github.com/RAGE-toolkit/Artic-nf/tree/main/scripts">Scripts</a>
 - <a href="">Results</a>
 
-<b> Evnironment setup: </b> Conains necessary modules/tools required to
+<b> Environment setup: </b> Contains necessary modules/tools required to
 support the workflow. It is recommended use the  <b>environment.yml</b>
 file to setup the workflow. Alternatively, manual_package_install.txt can be used to install the package
-manually when the environment.yml is unable to run sucessfully.
+manually when the environment.yml is unable to run successfully.
 
 <b> Main workflow: </b> This enables the execution of the entire workflow.
-Generally all the sub-tasks are stiteched together and executed by the
+Generally all the sub-tasks are stitched together and executed by the
 "main.nf" module.
 
 <b> Meta_data directory: </b> This directory contains the sample_sheet,
@@ -57,18 +57,20 @@ providing information about the barcode and its corresponding sample
 names.
 
 <b> Modules: </b> All the sub workflow's are stored here, enabling in
-easy maintanance, replacement and troubleshooting.
+easy maintenance, replacement and troubleshooting.
 
 <b> Raw files: </b> It is recommended to store the raw fast5/pod5 files
-inside raw_file directory to keep the well organized project directory.
-Althought program can accept the raw_files from any directory.
+inside raw file directory to keep the well-organized project directory.
+Although program can accept the raw files from any directory.
+
 
 <b> Scripts: </b> Any programs/scripts used in the workflow, other than
 *.nf are saved in this directory.
 
-<b> Results: </b> All the workflow outputs are stored here in a sub-folders.
+<b> Results: </b> All the workflow outputs are stored here in a sub-folder.
 This directory is generated during the workflow run. It can be "results" or
-"analysis" or in other names (as per the user defination).
+"analysis" or in other names (as per the user definition).
+
 
 Tree structure below may give you a better idea of how the files are organized
 in Artic-nf.
@@ -91,19 +93,19 @@ includes
 - guppy_dir: Location of the Guppy software (not required if Dorado is used)
 
 ## 1.3 Tasks run by the Artic-nf workflow
-Artic-nf workflow runs multiple tasks symoultaniously, Here are the list of
+Artic-nf workflow runs multiple tasks simultaneously, here are the list of
 tasks run by the Artic-nf.
 - Basecalling: Basecalling is performed by the user specified basecalling
   tool
 - Barcodering: Performs demultiplexing for the basecalled fastq files
 - Plex/demux: Aggregate pre-demultiplexed reads
-- Medaka: This steps performs multiple steps related to medaka and data filtering
+- Medaka: This step performs multiple steps related to medaka and data filtering
   Some of the major steps are mentioned below.
   - Alignment
   - Variant calling
   - Variant filter
-- Concat: Concatinating all the sequences to a single fasta file
-- Mafft: Performing mafft alignment on the concatinated sequence
+- Concat: Concatenating all the sequences to a single fasta file
+- Mafft: Performing mafft alignment on the concatenated  sequence
 - Summary: Produces the summary of the aligned reads
 
 The medaka step executes multiple commands, if you are curious to know about the
@@ -154,7 +156,7 @@ ls -lh raw_files/fast5/
 ```
 
 The '-l' in the command to list all the files in a given directory and 'h'
-for providing human redable information.
+for providing human readable information.
 
 ### 1.6.2 Task 2
 
@@ -204,4 +206,12 @@ created by the Artic_nf workflow. Example command given below.
 
 ```
 ls -lh results/dorado_basecaller
+```
+
+## 1.8 Task 4
+
+Manually run the summary stats python program using the below command and view the result using less command
+```
+python -i results/medaka/ -o results/summary_stats/summary_stats.txt
+less results/summary_stats/summary_stats.txt
 ```
